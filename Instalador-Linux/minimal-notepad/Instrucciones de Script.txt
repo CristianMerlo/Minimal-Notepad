@@ -1,0 +1,10 @@
+Para usar este script:
+
+Guárdalo como install.sh
+
+Dale permisos de ejecución: chmod +x install.sh
+
+Ejecútalo con sudo: sudo ./install.sh
+
+
+Este script debería funcionar sin problemas en sistemas Ubuntu/Debian modernos, incluyendo Ubuntu 24.04 (Noble Numbat).
